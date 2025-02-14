@@ -6,9 +6,9 @@ I'm a passionate software developer with a focus on web development and machine 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoshuaNgerng&langs_count=7)
 
 ### 🚀 Projects
-- [Project 1](https://github.com/JoshuaNgerng/3dDa2d) - Mapping 2D map into a 3D enviroment using Raycasting
-- [Project 2](https://github.com/JoshuaNgerng/Webserv_PLS) - Make a webserver supporting CGI similar to Apache, with some features of NGINX
-- [Project 3](https://github.com/Zyeoh883/Bridg3_Hackathon) - I made the backend for prototype demo, the demo got top 10 in the Bridg3 Hackathon 2024
+- [Cub3D](https://github.com/JoshuaNgerng/3dDa2d) - Mapping 2D map into a 3D enviroment using Raycasting
+- [Webserv](https://github.com/JoshuaNgerng/Webserv_PLS) - Make a webserver supporting CGI similar to Apache, with some features of NGINX
+- [Solvify](https://github.com/Zyeoh883/Bridg3_Hackathon) - I made the backend for prototype demo, the demo got top 10 in the Bridg3 Hackathon 2024
 
 ### 💻 Skills
 - Programming Languages: C/C++, Python, JavaScript, TypeScript
