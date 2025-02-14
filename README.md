@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm a passionate software developer with a focus on web development and machine learning. Currently, I'm currently exploring different AI tools in python such as DEAP and NLP. My goal is to build impactful software that solves real-world problems.
+I'm a passionate software developer with a focus on web development and machine learning. Currently, I'm always exploring different technologies, currently I am trying out different AI tools in python such as DEAP and NLP. My goal is to build impactful software that solves real-world problems.
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=JoshuaNgerng&show_icons=true&count_private=true)
 
