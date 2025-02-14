@@ -1,10 +1,7 @@
 ## Hi there 👋
 I'm a passionate software developer with a focus on web development and machine learning. Currently, I'm currently exploring different AI tools in python such as DEAP and NLP. My goal is to build impactful software that solves real-world problems.
 
-![GitHub followers](https://img.shields.io/github/followers/JoshuaNgerng?style=social)
-![Languages](https://img.shields.io/github/languages/top/JoshuaNgerng/yourrepository)
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=JoshuaNgerng&show_icons=true&count_private=true)
 
 ### 🚀 Projects
 - [Project 1](https://github.com/JoshuaNgerng/3dDa2d) - Mapping 2D map into a 3D enviroment using Raycasting
